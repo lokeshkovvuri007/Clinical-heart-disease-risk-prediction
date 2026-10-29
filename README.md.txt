@@ -12,9 +12,8 @@ In medical diagnostic models, minimizing **False Negatives** (failing to identif
 ---
 
  🚀 Live Demo
-- **Web App**: 
-- **GitHub Repository**: [GitHub Repo URL](https://github.com/) *(Replace with your repo link)*
-
+- **Web App**: https://clinical-heart-disease-risk-prediction-uxjtuk3dlkxohzzq8a3dlh.streamlit.app/
+- **GitHub Repository**: https://github.com/lokeshkovvuri007/Clinical-heart-disease-risk-prediction
 ---
 
  🛠️ Tech Stack & Libraries
@@ -67,9 +66,7 @@ Multiple classification models were benchmarked and evaluated using Stratified t
 
  1. Clone the repository
 ```bash
-git clone [https://github.com/](https://github.com/)<your-username>/heart-disease-predictor.git
-cd heart-disease-predictor
-
+git clone https://github.com/lokeshkovvuri007/Clinical-heart-disease-risk-prediction
 
 2.Create a virtual environment:
 
